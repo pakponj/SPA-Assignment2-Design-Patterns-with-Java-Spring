@@ -20,6 +20,12 @@ Click Next. Then, one the next page click on Browse and navigate to the extracte
 Detailed Installation of Apache Tomcat refers to this [How to setup tomcat with Eclipse](http://websystique.com/misc/how-to-setup-tomcat-with-eclipse/)
 After finished home page of this project should pop up once the server is ready.
 
+### How to run
+    1.  run tomcat server
+
+    2. open url http://localhost:8080/assignment2/test
+
+
 ### References
 * [Spring 4 MVC+Apache Tiles 3 Example](http://websystique.com/springmvc/spring-4-mvc-apache-tiles-3-annotation-based-example/)
 * [How to setup tomcat with Eclipse](http://websystique.com/misc/how-to-setup-tomcat-with-eclipse/)
